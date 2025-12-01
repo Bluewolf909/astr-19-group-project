@@ -1,0 +1,7 @@
+We downloaded the data set, and uploaded it to the jupyter notebook as a cell. 
+We then made a function that decimalized time and used it.
+Next, we plotted the datapoints. 
+Afterwords, we worked on to find the best fit line and did so. 
+After that, we subtracted the model from the data, plotted the residuals, and then histogrammed them to find the statistics.
+	The scatter is indeed greater than the assumed experimental error. This is likley due to the curve not fitting that data perfectly. The scatter is likley around 3.09. 
+Part 4 Part 4 Part 4
