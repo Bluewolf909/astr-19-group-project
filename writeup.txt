@@ -13,3 +13,5 @@ The following three cells then work to subtract the data from the model and then
 	the residuals show that our model does not fit the data within the error bars
 	and that the instrisic scatter is about 3.09 measning that the error is not from the mesurments
 	rather that our curve was not a super good fit to the data.
+
+This final cell plots an outlier. It is 2.0 feet higher than the high tide point at day 14. This point has a deviation of about 2.5
